@@ -1,2 +1,2 @@
-This is my first commit using git 
+
 This is the edit
